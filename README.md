@@ -6,7 +6,7 @@ Introduction to GIT: Git is distributed version control system that tracks chang
 
 What is Git Bash? it is command-line interface(CLI) that aloow user to interact with Git on windows.
 
-Before git SVN was there which doesn' t work remotely but git provide this.
+Before git SVN was there which doesn' t work remotely but git provide this..
 
 Local Repository: it is the Git repository stored on our local computer.It includes working directory,staging area and contain .git folder.
 
